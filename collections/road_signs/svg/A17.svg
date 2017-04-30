@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="576"
+   height="507.5"
+   viewBox="-0.781 -0.08 576.53826 507.94375"
+   enable-background="new -0.781 -0.08 576 506"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="A17.svg"
+   inkscape:export-filename="C:\Documents and Settings\bertrand.bouteilles\Bureau\Panneaux\A - Route\1_danger\A17.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"><metadata
+   id="metadata18"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1174"
+   id="namedview16"
+   showgrid="false"
+   fit-margin-top="0.3"
+   fit-margin-left="0.3"
+   fit-margin-right="0.3"
+   fit-margin-bottom="0.3"
+   inkscape:zoom="0.81932015"
+   inkscape:cx="183.82592"
+   inkscape:cy="175.21183"
+   inkscape:window-x="1276"
+   inkscape:window-y="-4"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2"
+   showguides="true"
+   inkscape:guide-bbox="true" />
+<defs
+   id="defs4">
+</defs>
+<path
+   d="M 4.6641756,460.12125 260.6692,16.708249 c 5.531,-9.58 15.753,-15.482 26.815,-15.482 11.063,0 21.284,5.902 26.815,15.482 l 256.005,443.413001 c 5.531,9.58 5.531,21.384 0,30.964 -5.53,9.58 -15.753,15.482 -26.815,15.482 H 31.479171 c -11.062,0 -21.284,-5.902 -26.8149954,-15.482 -5.53099991,-9.58 -5.53099991,-21.384 0,-30.964 z"
+   id="path6"
+   style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   inkscape:connector-curvature="0" />
+<path
+   d="M 31.390171,494.18225 H 543.5812 c 6.618,0 12.734,-3.531 16.044,-9.264 3.31,-5.731 3.31,-12.794 0,-18.525 L 303.5292,22.822249 c -3.31,-5.732 -9.425,-9.263 -16.044,-9.263 -6.619,0 -12.734,3.531 -16.043,9.263 L 15.346171,466.39325 c -3.31,5.731 -3.31,12.794 0,18.525 3.309,5.732 9.425,9.264 16.044,9.264 z"
+   id="path8"
+   style="fill:#FF0000;stroke:none;fill-opacity:1"
+   inkscape:connector-curvature="0" />
+<polygon
+   points="287.219,68.37 511.046,456.049 63.392,456.049 "
+   id="polygon10"
+   style="fill:#ffffff;stroke:none"
+   transform="translate(0.26617569,0.97624901)" />
+
+
+<path
+   d="m 342.47149,392.01176 v -166.858 c 0,-30.368 -24.61799,-54.986 -54.98599,-54.986 -30.368,0 -54.986,24.618 -54.986,54.986 v 166.857 c 0,30.368 24.618,54.98499 54.986,54.98499 30.368,0.001 54.98599,-24.61599 54.98599,-54.98399 z"
+   id="path12"
+   style="fill:#000000;stroke:none"
+   inkscape:connector-curvature="0" /><circle
+   cx="287.21899"
+   cy="391.03601"
+   r="35.791"
+   id="circle16"
+   style="fill:#52ae27;stroke:none"
+   sodipodi:cx="287.21899"
+   sodipodi:cy="391.03601"
+   sodipodi:rx="35.791"
+   sodipodi:ry="35.791"
+   transform="translate(0.26649878,0.97576016)" /><circle
+   cx="287.21899"
+   cy="224.17799"
+   r="35.792"
+   id="circle18"
+   style="fill:#FF0000;fill-opacity:1;stroke:none"
+   sodipodi:cx="287.21899"
+   sodipodi:cy="224.17799"
+   sodipodi:rx="35.792"
+   sodipodi:ry="35.792"
+   transform="translate(0.26649878,0.97576016)" /><circle
+   cx="285.21899"
+   cy="308.03601"
+   r="35.791"
+   id="circle20"
+   style="fill:#ffff00;fill-opacity:1;stroke:none"
+   sodipodi:cx="285.21899"
+   sodipodi:cy="308.03601"
+   sodipodi:rx="35.791"
+   sodipodi:ry="35.791"
+   transform="translate(0.26649878,0.97576016)" /></svg>

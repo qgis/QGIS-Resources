@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="576"
+   height="576.00006"
+   viewBox="0 -0.031 576 576.00006"
+   enable-background="new 0 -0.031 598 600"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="C8.svg"
+   inkscape:export-filename="C:\Documents and Settings\bertrand.bouteilles\Bureau\Panneaux\A - Route\5_indication\C8.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"><metadata
+   id="metadata34"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1174"
+   id="namedview32"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="0.69060762"
+   inkscape:cx="216.68714"
+   inkscape:cy="325.73014"
+   inkscape:window-x="1276"
+   inkscape:window-y="-4"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" />
+<defs
+   id="defs4">
+</defs>
+
+
+<path
+   d="M 42.000354,574.96905 H 534.00051 c 10.8732,0 21.3023,-4.31848 28.9912,-12.0083 C 570.6805,555.27191 575,544.84377 575,533.9696 V 41.969434 c 0,-10.87417 -4.3194,-21.3023 -12.00829,-28.99114 -7.68991,-7.68982 -18.119,-12.00929996 -28.9922,-12.00929996 H 42.000354 c -10.87413,0 -21.30227,4.31947996 -28.99113,12.00829996 -7.68985,7.68884 -12.00922996,18.11797 -12.00922996,28.99214 V 533.9696 c 0,10.87417 4.31937996,21.30231 12.00822996,28.99115 7.68886,7.68883 18.118,12.0083 28.99213,12.0083 z"
+   id="path6-1-1-1-1"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke:#000000;stroke-width:1.99998808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" /><polygon
+   points="538.362,538.362 538.362,538.362 538.362,36.576 538.362,36.576 36.576,36.576 36.576,36.576 36.576,538.362 "
+   id="polygon8-7-7-7-7"
+   transform="matrix(1.0000749,0,0,1.0000749,0.50946804,0.47848804)"
+   style="fill:#0000ff;stroke:#0000ff;stroke-width:0.17640001;stroke-linecap:round;stroke-linejoin:round" />
+
+
+
+
+
+
+
+
+
+<g
+   id="g3027"
+   transform="translate(-22.163498,-16.095975)"><g
+     id="g3020"><polyline
+       points="397.731,227.411 397.731,373.05 435.731,373.05 435.731,227.96 "
+       id="polyline14"
+       style="fill:#ffffff" /><polyline
+       points="340.732,177.413 340.732,78.079 302.732,78.079 302.732,176.079 "
+       id="polyline16"
+       style="fill:#ffffff" /><polyline
+       points="434.245,227.738 325.77,146.56 303.002,176.984 414.176,260.18 "
+       id="polyline18"
+       style="fill:#ffffff" /><polyline
+       points="340.732,421.62 340.732,523.954 302.732,523.954 302.732,422.994 "
+       id="polyline20"
+       style="fill:#ffffff" /><polyline
+       points="433.72,373.689 325.77,454.474 303.002,424.05 419.239,337.064 "
+       id="polyline22"
+       style="fill:#ffffff" /></g><rect
+     id="rect24"
+     height="451.97198"
+     width="38"
+     y="78.079002"
+     x="210.229"
+     style="fill:#ffffff" /><rect
+     id="rect26"
+     height="46.498001"
+     width="61.497002"
+     y="135.67799"
+     x="197.09599"
+     style="fill:#0000ff;stroke:#0000ff" /><rect
+     id="rect28"
+     height="46.497002"
+     width="61.497002"
+     y="408.664"
+     x="198.59599"
+     style="fill:#0000ff;stroke:#0000ff" /><rect
+     id="rect30"
+     height="46.497002"
+     width="61.497002"
+     y="273.67099"
+     x="200.09599"
+     style="fill:#0000ff;stroke:#0000ff" /></g>
+</svg>
