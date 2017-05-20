@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="576"
+   height="576.00006"
+   viewBox="0 -0.031 576 576.00006"
+   enable-background="new 0 -0.031 598 600"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="C64b.svg"
+   inkscape:export-filename="C:\Documents and Settings\bertrand.bouteilles\Bureau\Panneaux\A - Route\5_indication\C64b.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"><metadata
+   id="metadata24"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1174"
+   id="namedview22"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="0.48833333"
+   inkscape:cx="120.08191"
+   inkscape:cy="376.05444"
+   inkscape:window-x="1276"
+   inkscape:window-y="-4"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" />
+<defs
+   id="defs4">
+</defs>
+
+
+
+
+
+
+
+<path
+   d="m 42.00035,574.96926 h 492.00016 c 10.8732,0 21.3023,-4.3184 28.9912,-12.0083 7.6888,-7.6888 12.0083,-18.1169 12.0083,-28.9911 V 41.969685 c 0,-10.87417 -4.3194,-21.3023 -12.0083,-28.99114 -7.6899,-7.68982 -18.119,-12.0093 -28.9922,-12.0093 H 42.00035 c -10.87413,0 -21.30227,4.31948 -28.99113,12.0083 -7.68985,7.68884 -12.00923,18.11797 -12.00923,28.99214 V 533.96985 c 0,10.8742 4.31938,21.30231 12.00823,28.9911 7.68886,7.68891 18.118,12.0083 28.99213,12.0083 z"
+   id="path6-1-1-1-1"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke:#000000;stroke-width:1.99998808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" /><polygon
+   points="538.362,538.362 538.362,538.362 538.362,36.576 538.362,36.576 36.576,36.576 36.576,36.576 36.576,538.362 "
+   id="polygon8-7-7-7-7"
+   transform="matrix(1.0000749,0,0,1.0000749,0.509469,0.478719)"
+   style="fill:#0000ff;stroke:#0000ff;stroke-width:0.17640001;stroke-linecap:round;stroke-linejoin:round" /><g
+   id="g3001"
+   transform="translate(-13.579784,-22.470364)"><path
+     id="path10"
+     d="m 534.46,247.895 -361.168,-74.4 c -6.558,-1.352 -12.958,2.815 -14.295,9.307 L 111.38,413.947 c -1.337,6.49 2.895,12.849 9.453,14.199 l 361.17,74.4 c 6.557,1.351 12.957,-2.817 14.293,-9.309 l 47.616,-231.145 c 1.34,-6.49 -2.894,-12.847 -9.452,-14.197 z m -54.444,226.716 -339.158,-69.712 42.617,-207.336 339.159,69.713 -42.618,207.335 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" /><rect
+     id="rect12"
+     height="19"
+     width="61"
+     y="369.57901"
+     x="101.5"
+     style="fill:#0000ff" /><rect
+     id="rect14"
+     height="45.5"
+     width="25"
+     y="218.57899"
+     x="439"
+     style="fill:#0000ff" /><path
+     id="path16"
+     d="m 452,366.079 c 0,6.627 -5.429,12 -12.123,12 H 71.124 c -6.696,0 -12.124,-5.373 -12.124,-12 v -236 c 0,-6.627 5.428,-12 12.124,-12 h 368.753 c 6.694,0 12.123,5.373 12.123,12 v 236 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" /><path
+     id="path18"
+     d="m 81,140.079 v 173 h 351 v -173 H 81 z m 93,151 -69.333,-66 L 174,159.746 v 131.333 z"
+     inkscape:connector-curvature="0"
+     style="fill:#0000ff" /><rect
+     id="rect20"
+     height="18"
+     width="350.66699"
+     y="338.41299"
+     x="81.333"
+     style="fill:#0000ff" /></g>
+</svg>

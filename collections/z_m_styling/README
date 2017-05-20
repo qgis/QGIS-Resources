@@ -1,0 +1,11 @@
+author : Régis Haubourg
+2016 01 03
+----------
+# z value styling in QGIS
+This collection aims at sharing styling tips for being able to visualize Z or M values for 3DM geometries.
+That can be useful for checking editing mistakes, or improving 2.5 D styling for roofs slopes for instance.
+
+# Caveats and warnings:
+Z values are supposed to be in a cartesian system (ie meters) like layer's CRS units.
+This style won't work with reprojected datasets or on-the-fly projection set to a non projected CRS like WGS84 because z offset is not reprojected to decimal degrees.
+So if you work in lat lon system, Z values should be edited using decimal degrees unit (which is quite uncommon).

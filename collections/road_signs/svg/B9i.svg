@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="576px"
+   height="576px"
+   viewBox="-0.031 -0.031 576 576"
+   enable-background="new -0.031 -0.031 576 576"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="B9i.svg"
+   inkscape:export-filename="C:\Documents and Settings\bertrand.bouteilles\Bureau\Panneaux\A - Route\3_interdiction\B9i.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"><metadata
+   id="metadata26"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="964"
+   id="namedview24"
+   showgrid="false"
+   inkscape:zoom="0.50868056"
+   inkscape:cx="-111.07167"
+   inkscape:cy="288"
+   inkscape:window-x="-4"
+   inkscape:window-y="-4"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" />
+<defs
+   id="defs4">
+</defs>
+<circle
+   opacity="0.99"
+   fill="#FFFFFF"
+   stroke="#000000"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   cx="287.969"
+   cy="287.969"
+   r="286.969"
+   id="circle6" />
+<circle
+   fill="#FF0000"
+   stroke="#FF0000"
+   stroke-width="0.1764"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   cx="287.969"
+   cy="287.969"
+   r="273.982"
+   id="circle8"
+   style="fill:#ff0000" />
+<circle
+   opacity="0.99"
+   fill="#FFFFFF"
+   stroke="#FF0000"
+   stroke-width="0.1764"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   cx="286.969"
+   cy="286.469"
+   r="192.438"
+   id="circle10" />
+<path
+   d="M451.636,263.635c0-37.371-49.1-67.667-109.667-67.667s-109.667,30.295-109.667,67.667c0,0.223,0.01,0.444,0.014,0.667  h-0.013v72.667h84.358c0.536-13.343,11.732-24,25.476-24c13.741,0,24.938,10.657,25.474,24h84.025v-72.667h-0.014  C451.626,264.08,451.636,263.858,451.636,263.635z M325.302,276.717v0.085h-54v-0.214c-9.042-1.309-16-9.134-16-18.62  s6.958-17.311,16-18.62v-0.214h54v0.085c9.527,0.852,17.001,8.915,17.001,18.749S334.829,275.866,325.302,276.717z M427.969,307.136  c0,9.572-8.581,17.333-19.166,17.333c-10.523,0-19.059-7.672-19.158-17.167h-0.009v-53.333c0-9.573,8.581-17.333,19.167-17.333  c10.585,0,19.166,7.76,19.166,17.333c0,0.736-0.067,1.458-0.166,2.169v48.827C427.901,305.679,427.969,306.399,427.969,307.136z"
+   id="path12" />
+<ellipse
+   cx="408.803"
+   cy="256.469"
+   rx="14"
+   ry="13.667"
+   id="ellipse14" />
+<ellipse
+   cx="342.219"
+   cy="338.969"
+   rx="22.875"
+   ry="23"
+   id="ellipse16" />
+<ellipse
+   cx="164.969"
+   cy="335.969"
+   rx="23.563"
+   ry="23.5"
+   id="ellipse18" />
+<path
+   d="M210.969,298.469l-1-2l-1.5-2l-2-1h-15l-39.867-46h-24.633v12.758l8.5-0.258l19.5,22.5l2.5,3.5v3v5l-30.5,1.144v40.856  h10.506c0-0.084-0.006-0.166-0.006-0.25c0-15.051,12.425-27.25,27.75-27.25s27.75,12.199,27.75,27.25  c0,0.084-0.006,0.166-0.006,0.25h19.506v-35.625L210.969,298.469z"
+   id="path20" />
+<rect
+   x="209.469"
+   y="325.469"
+   width="30"
+   height="10"
+   id="rect22" />
+</svg>

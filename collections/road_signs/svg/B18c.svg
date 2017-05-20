@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="576px"
+   height="576px"
+   viewBox="-0.943 -0.943 576 576"
+   enable-background="new -0.943 -0.943 576 576"
+   xml:space="preserve"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="B18c.svg"
+   inkscape:export-filename="C:\Documents and Settings\bertrand.bouteilles\Bureau\Panneaux\A - Route\3_interdiction\B18c.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs21" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="964"
+   id="namedview19"
+   showgrid="false"
+   inkscape:zoom="0.50868056"
+   inkscape:cx="-111.07167"
+   inkscape:cy="288"
+   inkscape:window-x="-4"
+   inkscape:window-y="-4"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<circle
+   fill="#FFFFFF"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   cx="287.057"
+   cy="287.057"
+   r="286.969"
+   id="circle3" />
+<circle
+   fill="#FF0000"
+   stroke="#FF0000"
+   stroke-width="0.1764"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   cx="287.057"
+   cy="287.057"
+   r="273.982"
+   id="circle5"
+   style="fill:#ff0000" />
+<circle
+   fill="#FFFFFF"
+   stroke="#FF0000"
+   stroke-width="0.1764"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   cx="287.057"
+   cy="287.057"
+   r="192.438"
+   id="circle7" />
+<polygon
+   stroke="#000000"
+   stroke-width="0.1764"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   points="212.728,351.661   216.385,345.848 231.682,345.848 236.004,350.691 236.336,356.991 243.652,357.475 243.652,368.619 277.57,366.682 284.885,362.805   293.531,366.195 328.114,368.619 328.114,357.475 335.096,356.991 335.096,351.176 340.085,345.361 354.383,345.361   359.371,351.176 359.371,393.329 354.716,399.143 340.085,399.627 335.428,394.298 335.096,387.999 328.114,387.999   328.114,376.371 293.531,378.309 285.883,382.186 277.237,378.793 243.32,375.886 243.32,387.999 236.004,387.999 236.004,393.813   232.347,398.659 215.721,399.143 212.396,393.813 "
+   id="polygon9" />
+<rect
+   x="203.417"
+   y="326.951"
+   stroke="#000000"
+   stroke-width="5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   width="167.925"
+   height="4.845"
+   id="rect11" />
+<polygon
+   fill="none"
+   stroke="#FFFF00"
+   stroke-width="0.1764"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   points="  234.724,299.831 234.724,189.119 341.393,189.119 341.393,298.614 "
+   id="polygon13" />
+<polygon
+   stroke="#000000"
+   stroke-width="7"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   points="212.223,313.213   224.724,175.736 350.56,175.736 363.061,314.43 "
+   id="polygon15" />
+<rect
+   x="231.057"
+   y="184.057"
+   fill="#FFD01F"
+   width="112"
+   height="121"
+   id="rect17"
+   style="fill:#ffff00" />
+</svg>
