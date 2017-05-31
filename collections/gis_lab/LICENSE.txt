@@ -1,0 +1,14 @@
+EN:
+
+You are allowed to use this set of symbols for QGIS under conditions of CC-BY 3.0 unported license (http://creativecommons.org/licenses/by/3.0/).
+
+Authors: Yury Ryabov (riabovvv@gmail.com), Pavel Sergeev (aka old_Bibigon).
+
+
+
+RU:
+
+Вы можете пользоваться данным набором символов для QGIS на условиях, предусмотренных непортированной лицензией CC-BY 3.0 (http://creativecommons.org/licenses/by/3.0/deed.ru).
+
+Авторы: Юрий Рябов (riabovvv@gmail.com), Павел Сергеев (aka old_Bibigon).
+

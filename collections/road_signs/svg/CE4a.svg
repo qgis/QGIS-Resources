@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="576"
+   height="576"
+   viewBox="-0.531 -0.531 576 576"
+   enable-background="new -0.531 -0.531 576 576"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="CE4a.svg"
+   inkscape:export-filename="C:\Documents and Settings\bertrand.bouteilles\Bureau\Panneaux\A - Route\6_services\CE4a.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"><metadata
+   id="metadata20"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="964"
+   id="namedview18"
+   showgrid="false"
+   inkscape:zoom="0.50868056"
+   inkscape:cx="-510.14334"
+   inkscape:cy="288"
+   inkscape:window-x="-4"
+   inkscape:window-y="-4"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
+<defs
+   id="defs4">
+</defs>
+
+
+
+<path
+   d="m 41.46795,574.47073 h 492.0031 c 10.87324,0 21.30243,-4.3185 28.99131,-12.00837 7.68888,-7.68888 12.00837,-18.11707 12.00837,-28.99131 V 41.46795 c 0,-10.87424 -4.31949,-21.30243 -12.00837,-28.99131 C 554.77248,4.7867701 544.34329,0.46727009 533.47005,0.46727009 H 41.46795 C 30.5937,0.46727009 20.16551,4.7867701 12.47664,12.47564 4.7867601,20.16452 0.46727009,30.59371 0.46727009,41.46795 v 492.0031 c 0,10.87424 4.31949001,21.30243 12.00836991,28.99131 7.68888,7.68888 18.11806,12.00837 28.99231,12.00837 z"
+   id="path6-1"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke:#000000;stroke-width:1.99654019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" /><polygon
+   points="538.362,36.576 538.362,36.576 36.576,36.576 36.576,36.576 36.576,538.362 538.362,538.362 538.362,538.362 "
+   id="polygon8-7"
+   transform="matrix(1.0001141,0,0,1.0001141,-0.03280012,-0.03280012)"
+   style="fill:#0000ff;stroke:#0000ff;stroke-width:0.17640001;stroke-linecap:round;stroke-linejoin:round" /><rect
+   x="88.739326"
+   y="88.739326"
+   width="397.45935"
+   height="397.45935"
+   id="rect10-4"
+   style="fill:#ffffff;stroke:#0000ff;stroke-width:0.17642012;stroke-linecap:round;stroke-linejoin:round" /><polygon
+   points="290.498,236.279 179.345,410.469 401.272,410.469 "
+   id="polygon12"
+   style="fill:none" />
+<path
+   d="m 413.123,410.469 -116.689,-183.491 39.981,-62.656 -8.266,-5.239 -37.511,58.784 -39.052,-61.409 -8.438,5.367 41.555,65.344 -116.966,183.3 h -51.268 v 10 h 346 v -10 H 413.123 z M 290.498,236.279 401.272,410.468 H 179.345 L 290.498,236.279 z"
+   id="path14"
+   inkscape:connector-curvature="0" />
+<polygon
+   points="173.167,413.803 234.5,413.803 262.151,369.803 289.801,325.802 317.451,369.803 345.103,413.803 409.769,413.803 350.616,321.136 291.467,228.469 232.318,321.136 "
+   id="polygon16"
+   style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+</svg>
