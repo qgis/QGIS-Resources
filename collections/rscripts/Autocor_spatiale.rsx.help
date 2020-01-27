@@ -1,0 +1,1 @@
+{"ALG_DESC": "This script calculates the spatial corelation with the Moran's test ", "nb_vois": "number of neighboors in the moran's test", "nb_simul": "number of simulation in the moran's test", "ALG_CREATOR": "JEANDENANS L.", "Layer": "Input vector with at least one field", "Field": "the field", "RPLOTS": "histogram of residues", "ALG_HELP_CREATOR": "JEANDENANS L."}

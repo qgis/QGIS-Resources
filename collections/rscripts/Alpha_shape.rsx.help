@@ -1,0 +1,1 @@
+{"ALG_DESC": "This script computes a concave hull with the method of alpha-shape and gives a shapfile with lines of the concave hull.", "ALG_CREATOR": "JEANDENANS L.", "Layer": "Input vector with points", "ALG_HELP_CREATOR": "JEANDENANS L.", "alpha": "a number >0", "Output": "a shapefile with the concave hull"}

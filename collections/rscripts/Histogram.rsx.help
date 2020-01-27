@@ -1,0 +1,1 @@
+{"Field": "A nuneric field.", "ALG_DESC": "This tool creates a histogram of the input numeric field using the hist() function.", "Layer": "A vector layer with a numeric field."}
