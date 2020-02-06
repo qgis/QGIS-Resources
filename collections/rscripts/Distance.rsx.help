@@ -1,0 +1,1 @@
+{"Layer2": "a line", "ALG_DESC": "This script calculates the distance between two geometries: a line and points.", "ALG_CREATOR": "JEANDENANS L.", "Layer1": "a set of data (points)", "Field": "identification of points", "ALG_HELP_CREATOR": "JEANDENANS L.", "output": "a shapfile with points and the distance."}

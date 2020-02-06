@@ -1,0 +1,1 @@
+{"ALG_DESC": "This script extracts coordinates of all points of a line", "ALG_CREATOR": "JEANDENANS L.", "Layer": "Input vector with lines", "ALG_HELP_CREATOR": "JEANDENANS L.", "nombre": "number of the line which we want the coordinates", "Output": "a shapefile with these points"}
