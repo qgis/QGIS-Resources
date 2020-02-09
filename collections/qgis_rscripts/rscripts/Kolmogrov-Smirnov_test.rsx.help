@@ -1,0 +1,1 @@
+{"Field": "A numeric field.", "ALG_DESC": "This script performs the Lilliefors (Kolmogrov-Smirnov) test for the composite hypothesis of normality.\n\nR dependencies: library \"nortest\"\n\n", "R_CONSOLE_OUTPUT": "The results of the Lilliefors (Kolmogrov-Smirnov) test.", "Layer": "A vector containing at least one numeric field.", "null": ""}
