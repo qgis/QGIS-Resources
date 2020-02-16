@@ -4,6 +4,5 @@
 ##showplots
 library("maptools")
 library("spatstat")
-#ppp=as(as(Layer, "SpatialPoints"),"ppp")
-ppp=as(as(Layer, "Spatial"),"ppp")
-plot(envelope(ppp, Gest, nsim=Nsim))
+ppp=as(as(Layer, "SpatialPoints"),"ppp")
+plot(envelope(ppp, Fest, nsim=Nsim))
