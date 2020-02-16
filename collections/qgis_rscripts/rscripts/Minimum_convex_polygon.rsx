@@ -5,8 +5,11 @@
 ##Home_ranges=Output vector
 library(adehabitatHR)
 
-SpatialLayer = as(Layer, "Spatial")
-HR<-mcp(SpatialLayer[,Field],percent=Percentage)
+LayerXY = st_zm(Layer)
+SpatialLayerXY = as(LayerXY, "Spatial")
+
+HR<-mcp(SpatialLayerXY[,Field],percent=Percentage)
+
 Home_ranges<-st_as_sf(HR)
 
 
