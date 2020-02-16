@@ -1,0 +1,1 @@
+{"Output": "Sampled points", "ALG_DESC": "This scripts samples point location within a given polygon(s) using a regular (systematically aligned) sampling method. The methods  used assume that the geometry used is not spherical, so objects should be in planar coordinates.", "Layer": "A vector layer containing polygons.\n", "Size": "Number of sample points to be generated.\n"}

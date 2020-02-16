@@ -2,7 +2,7 @@
 ##Layer1=vector
 ##Layer2=vector
 ##methode=number 1
-##Output=output raster
+##Output= output raster
 library(rgdal)
 library(surveillance)
 library(maptools)
@@ -103,18 +103,8 @@ ZNA = f0$estimate,
 H = fhat$H,
 W = fhat$W)
 }
-
-#points<-coordinates(Layer1)
-spatpoints = as(Layer1, "Spatial")
-points<-coordinates(spatpoints)
->print("---points-----------------------------------------------------")
->str(points)
-
-#polygon<-Layer2
-polygon<-as(Layer2, "Spatial")
->print("---polygon-----------------------------------------------------")
->str(polygon)
-
+points<-coordinates(Layer1)
+polygon<-Layer2
 if(methode==0){
 estimate <- sKDE(U = points, polygon = polygon,
 optimal=TRUE, parallel = FALSE)
@@ -145,7 +135,6 @@ coordinates(Grille)=c("X","Y")
 gridded(Grille)<-TRUE
 library(raster)
 result<-raster(Grille,layer=1, values=TRUE)
-#proj4string(Layer1)->crs
-proj4string(spatpoints)->crs
+proj4string(Layer1)->crs
 proj4string(result)<-crs
 Output=result

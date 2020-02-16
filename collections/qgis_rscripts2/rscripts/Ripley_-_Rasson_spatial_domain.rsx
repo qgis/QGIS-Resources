@@ -3,12 +3,10 @@
 ##Output=output vector
 library("spatstat")
 library("maptools")
-
-crs=st_crs(Layer)
-spatpoints = as(Layer, "Spatial")
-
+proj4string(Layer)->crs
+spatpoints = as(Layer,"SpatialPoints")
 ripras=ripras(as(spatpoints,"ppp"))
 polyg=as(ripras,"SpatialPolygons")
-SPDF=SpatialPolygonsDataFrame(polyg, data.frame(1))
-
-Output=st_set_crs(st_as_sf(SPDF), crs)
+Output1= SpatialPolygonsDataFrame(polyg, data.frame(1))
+proj4string(Output1)<-crs
+Output<-Output1
