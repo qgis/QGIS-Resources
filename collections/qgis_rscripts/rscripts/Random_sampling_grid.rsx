@@ -1,6 +1,10 @@
 ##Point pattern analysis=group
-##Layer=vector
+##Layer=vector polygon
 ##Size=number 10
 ##Output= output vector
-pts=spsample(Layer,Size,type="random")
-Output=SpatialPointsDataFrame(pts, as.data.frame(pts))
+spatpoly = as(Layer, "Spatial")
+
+pts=spsample(spatpoly,Size,type="random")
+spdf=SpatialPointsDataFrame(pts, as.data.frame(pts))
+
+Output=st_as_sf(spdf)

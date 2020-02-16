@@ -1,12 +1,14 @@
 ##Point pattern analysis=group
 ##Layer=vector point
 ##Simulations=number 100
-##Optional_plot_name=string
+##Plot_name=string 'K function'
 ##showplots
 library(spatstat)
 library(maptools)
-sp <- as(Layer, "SpatialPoints")
+
+sp <- as(Layer, "Spatial")
 sp <- as(sp, "ppp")
+
 e <- envelope(sp, Kest, nsim = Simulations)
->e
-plot(e, main = Optional_plot_name)
+plot(e, main = Plot_name)
+

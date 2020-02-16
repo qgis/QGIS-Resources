@@ -1,7 +1,12 @@
 ##Home Range Analysis=group
 ##Layer=vector
-##Percentage=number 10
+##Percentage=number 90
 ##Field=Field Layer
 ##Home_ranges=Output vector
 library(adehabitatHR)
-Home_ranges<-mcp(Layer[,Field],percent=Percentage)
+
+SpatialLayer = as(Layer, "Spatial")
+HR<-mcp(SpatialLayer[,Field],percent=Percentage)
+Home_ranges<-st_as_sf(HR)
+
+
