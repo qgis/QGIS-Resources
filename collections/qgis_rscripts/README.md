@@ -1,5 +1,5 @@
-R script collection for QGIS
-============================
+R script collection for QGIS and the Processing R Provider plugin
+=================================================================
 
 Origin
 ------
