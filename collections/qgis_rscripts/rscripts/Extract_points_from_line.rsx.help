@@ -1,0 +1,1 @@
+{"ALG_DESC": "This script creates a point layer from the points of a specified line in a line layer", "ALG_CREATOR": "H Tveite", "Layer": "Input line vector layer", "Line_number": "The number of the line we want to extract the points from", "Output": "A point vector layer with the extracted points", "ALG_HELP_CREATOR": "H Tveite"}
