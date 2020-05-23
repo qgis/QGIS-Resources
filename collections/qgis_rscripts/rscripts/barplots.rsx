@@ -1,5 +1,5 @@
 ##Vector processing=group
-##Bar plots=name
+##Bar plot=name
 ##showplots
 ##Layer=vector
 ##Field=Field Layer

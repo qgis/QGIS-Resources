@@ -1,1 +1,5 @@
-{"ALG_DESC": "This script computes the density curve.", "ALG_CREATOR": "JEANDENANS L.", "Layer": "Input vector", "Field": "the field", "RPLOTS": "the density curve", "ALG_HELP_CREATOR": "JEANDENANS L."}
+{"ALG_DESC": "Computes the density curve for the given field.",
+ "ALG_CREATOR": "JEANDENANS L.", "ALG_HELP_CREATOR": "JEANDENANS L.", "Layer": "Input vector layer",
+ "Field": "The (numeric) attribute/field of the input layer to use for the curve",
+ "RPLOTS": "(Specify) The location and name for the output HTML file with the plot (optional)."}
+
