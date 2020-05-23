@@ -1,1 +1,7 @@
-{"ALG_DESC": "This script does an ANalysis Of VAriance (ANOVA) and gives the summary of the test.", "ALG_CREATOR": "JEANDENANS L.", "Field3": "The third field", "Field1": "The first field", "Layer": "Input vector with at least 5 numerics fields.", "Field4": "The fourth field", "Field5": "The fifth field", "Field2": "The second field", "ALG_HELP_CREATOR": "JEANDENANS L."}
+{"ALG_DESC": "This script does an ANalysis Of VAriance (ANOVA) and gives the summary of the test. The third field is removed in the second lm",
+"ALG_CREATOR": "JEANDENANS L.",
+"ALG_HELP_CREATOR": "JEANDENANS L.",
+"Layer": "Input vector layer with at least five numerical fields.",
+"Field1": "The first field", "Field2": "The second field",
+"Field3": "The third field", "Field4": "The fourth field",
+"Field5": "The fifth field"}
