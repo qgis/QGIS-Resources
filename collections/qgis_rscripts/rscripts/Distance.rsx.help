@@ -1,0 +1,8 @@
+{"ALG_DESC": "For each point in the input point layer, the script finds the nearest location on the line layer and calculates the distance. Coordinates have to be in the latitude / longitude ranges.",
+"ALG_CREATOR": "The QGIS community",
+"ALG_HELP_CREATOR": "The QGIS community",
+"Input_Point_Layer": "A set of points (lat/lon)",
+"Line_Layer": "A line layer",
+"ID_Field": "ID field for the input points",
+"Nearest": "The output point layer (containing the nearest point on the line for each input point) with input point ID and the distance."}
+

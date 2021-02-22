@@ -1,0 +1,1 @@
+{"ALG_CREATOR": "H. Tveite", "Polygon_number": "The number of the polygon for which we want the coordinates", "ALG_DESC": "This script extracts the coordinates of a specified polygon from a polygon layer", "Layer": "Input polygon vector layer", "ALG_HELP_CREATOR": "H. Tveite"}

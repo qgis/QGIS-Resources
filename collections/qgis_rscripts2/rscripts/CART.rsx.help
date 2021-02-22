@@ -1,0 +1,1 @@
+{"ALG_DESC": "This script does a Classification And Regression Trees (CART) and gives the plot with the tree.", "ALG_CREATOR": "JEANDENANS L.", "Field1": "The field", "Layer": "Input vector with at least one field.", "RPLOTS": "the tree of the CART", "ALG_HELP_CREATOR": "JEANDENANS L."}
